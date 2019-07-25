@@ -57,9 +57,9 @@ npm run dist -- -mwl
 ```
 
 ## Husky and Prettier
-This project comes with both Husky and Prettier setup to ensure a consistent code style. 
+This project comes with both Husky and Prettier setup to ensure a consistent code style.
 
-To change the code style, you can change the configuration in `.prettierrc`. 
+To change the code style, you can change the configuration in `.prettierrc`.
 
 In case you want to get rid of this, you can removing the following from `package.json`:
 
@@ -73,4 +73,7 @@ Also remove `tslint-config-prettier` from the `extends` section in `tslint.json`
 This project was set up from scratch but is heavily influenced by the [Electron React Boilerplate project](https://github.com/chentsulin/electron-react-boilerplate) and [React Redux TypeScript guide](https://github.com/piotrwitek/react-redux-typescript-guide).
 
 ## License
+MIT © [Smarter Tomato](https://github.com/SmartyTomato)
+
+Origin:
 MIT © [R. Franken](https://github.com/Robinfr)
